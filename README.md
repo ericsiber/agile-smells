@@ -4,6 +4,8 @@ Ce dépôt recense :
 - une liste de signaux et comportements (des plus élémentaires aux plus subtils) qui vont à l'encontre de l'adoption de l'esprit et des pratiques agiles sur le terrain
 - le résultat des différentes occurrences de l'atelier "Identifiez et traitez les signaux et comportements freinant l'adoption de l'agilité"
 
+Le contenu de ce dépôt est sous licence [Creative Commons](http://fr.wikipedia.org/wiki/Creative_Commons) (CC) BY-NC-SA.
+
 Le déroulement (minimaliste) de l'atelier s'appuie sur les idées suivantes :
 - parcourir une liste finie de signaux avec les participants et leur présenter la démarche
 - à l'aide d'un ou plusieurs volontaires, étudier l'un des signaux
