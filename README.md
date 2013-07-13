@@ -6,6 +6,9 @@ Ce dépôt recense :
 
 Le contenu de ce dépôt est sous licence [Creative Commons](http://fr.wikipedia.org/wiki/Creative_Commons) (CC) BY-NC-SA.
 
+Les ressources et le fruit de l'atelier se trouvent sur la partie [Wiki](../../wiki) de l'espace. N'hésitez pas à contribuer.
+
+L'atelier a été joué le 11 avril 2013 à l'occasion du Scrum Day.
 Le déroulement (minimaliste) de l'atelier s'appuie sur les idées suivantes :
 - parcourir une liste finie de signaux avec les participants et leur présenter la démarche
 - à l'aide d'un ou plusieurs volontaires, étudier l'un des signaux
@@ -18,4 +21,4 @@ Variantes pouvant être intégrées à l'atelier :
 - permettre aux participants d'enrichir la liste en proposant des signaux
 - faire prioriser la liste de signaux selon l'importance de l'impact sur l'adoption de l'agilité
 
-Atelier joué le 11 avril 2013 à l'occasion du Scrum Day
+
